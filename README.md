@@ -97,8 +97,9 @@ Example:
 
 ```sql
 SELECT
-SUM(total_price) AS total_revenue
-FROM pizza_sales;
+    SUM(total_price) AS total_revenue
+FROM 
+    pizza_sales;
 ```
 
 ---
