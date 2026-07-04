@@ -227,10 +227,10 @@ Pizza-Sales-Analysis/
 
 # 📷 Dashboard Preview
 ### Home Page
-![Dashboard](Dashboard_Preview/Home_Page.png)
+![Dashboard](Dashboard_Preview/Home_page.png)
 
 ### Top/Bottom 5 Best Sales
-![Dashboard](Dashboard_Preview/Top_Bottom_Best_Sales.png)
+![Dashboard](Dashboard_Preview/Top_Bottom_5_Best_Sellers.png)
 
 
 ---
