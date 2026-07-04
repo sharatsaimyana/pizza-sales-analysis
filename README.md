@@ -226,10 +226,11 @@ Pizza-Sales-Analysis/
 ---
 
 # 📷 Dashboard Preview
+### Home Page
+![Dashboard](Dashboard_Preview/Home_Page.png)
 
-> Add your Power BI dashboard screenshot here.
-
-![Dashboard](Dashboard Screenshot.png)
+### Top/Bottom 5 Best Sales
+![Dashboard](Dashboard_Preview/Top_Bottom_Best_Sales.png)
 
 
 ---
